@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSA", "DSA\DSA.csproj", "{2DD7B0C5-2EB2-4E48-821B-C2F95A93504E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigO", "BigO\BigO.csproj", "{62935C1D-BEDD-4DC5-A5CE-05991AA1FDC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DD7B0C5-2EB2-4E48-821B-C2F95A93504E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DD7B0C5-2EB2-4E48-821B-C2F95A93504E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DD7B0C5-2EB2-4E48-821B-C2F95A93504E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DD7B0C5-2EB2-4E48-821B-C2F95A93504E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62935C1D-BEDD-4DC5-A5CE-05991AA1FDC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62935C1D-BEDD-4DC5-A5CE-05991AA1FDC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62935C1D-BEDD-4DC5-A5CE-05991AA1FDC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62935C1D-BEDD-4DC5-A5CE-05991AA1FDC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F59CA970-90C9-4C31-9ED3-173E2FA7BEE9}
+	EndGlobalSection
+EndGlobal

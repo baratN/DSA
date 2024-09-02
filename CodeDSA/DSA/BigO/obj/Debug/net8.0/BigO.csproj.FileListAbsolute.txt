@@ -1,0 +1,14 @@
+C:\Users\bharathN\Desktop\programs\dsa\CodeDSA\DSA\BigO\bin\Debug\net8.0\BigO.exe
+C:\Users\bharathN\Desktop\programs\dsa\CodeDSA\DSA\BigO\bin\Debug\net8.0\BigO.deps.json
+C:\Users\bharathN\Desktop\programs\dsa\CodeDSA\DSA\BigO\bin\Debug\net8.0\BigO.runtimeconfig.json
+C:\Users\bharathN\Desktop\programs\dsa\CodeDSA\DSA\BigO\bin\Debug\net8.0\BigO.dll
+C:\Users\bharathN\Desktop\programs\dsa\CodeDSA\DSA\BigO\bin\Debug\net8.0\BigO.pdb
+C:\Users\bharathN\Desktop\programs\dsa\CodeDSA\DSA\BigO\obj\Debug\net8.0\BigO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bharathN\Desktop\programs\dsa\CodeDSA\DSA\BigO\obj\Debug\net8.0\BigO.AssemblyInfoInputs.cache
+C:\Users\bharathN\Desktop\programs\dsa\CodeDSA\DSA\BigO\obj\Debug\net8.0\BigO.AssemblyInfo.cs
+C:\Users\bharathN\Desktop\programs\dsa\CodeDSA\DSA\BigO\obj\Debug\net8.0\BigO.csproj.CoreCompileInputs.cache
+C:\Users\bharathN\Desktop\programs\dsa\CodeDSA\DSA\BigO\obj\Debug\net8.0\BigO.dll
+C:\Users\bharathN\Desktop\programs\dsa\CodeDSA\DSA\BigO\obj\Debug\net8.0\refint\BigO.dll
+C:\Users\bharathN\Desktop\programs\dsa\CodeDSA\DSA\BigO\obj\Debug\net8.0\BigO.pdb
+C:\Users\bharathN\Desktop\programs\dsa\CodeDSA\DSA\BigO\obj\Debug\net8.0\BigO.genruntimeconfig.cache
+C:\Users\bharathN\Desktop\programs\dsa\CodeDSA\DSA\BigO\obj\Debug\net8.0\ref\BigO.dll
